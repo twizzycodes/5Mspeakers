@@ -6,9 +6,9 @@
 
 **Standalone • QBCore • QBox • ESX**
 
-[![FiveM](https://img.shields.io/badge/FiveM-Resource-red?style=for-the-badge&logo=rockstar-games)](#)
-[![Lua](https://img.shields.io/badge/Lua-5.4-blue?style=for-the-badge&logo=lua)](#)
-[![ox_lib](https://img.shields.io/badge/ox__lib-required-orange?style=for-the-badge)](#requirements)
+[![FiveM](https://img.shields.io/badge/FiveM-Resource-red?style=for-the-badge\&logo=rockstar-games)](#)
+[![Lua](https://img.shields.io/badge/Lua-5.4-blue?style=for-the-badge\&logo=lua)](#)
+[![ox\_lib](https://img.shields.io/badge/ox__lib-required-orange?style=for-the-badge)](#requirements)
 [![oxmysql](https://img.shields.io/badge/oxmysql-optional-green?style=for-the-badge)](#configuration)
 
 <br>
@@ -30,10 +30,11 @@
 
 <br><br>
 
-<video width="800" controls>
-  <source src="https://cdn.discordapp.com/attachments/1546328045076488313/1550962469239787701/videospeakers.mp4?ex=6ab03ddc&is=6aaeec5c&hm=94ece797f86ce806a3bef2f2352c0fa344f8c66ba160d5da154f541a97f9ff21&" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://cdn.discordapp.com/attachments/1546328045076488313/1550962469239787701/videospeakers.mp4?ex=6ab03ddc&is=6aaeec5c&hm=94ece797f86ce806a3bef2f2352c0fa344f8c66ba160d5da154f541a97f9ff21&" target="_blank">
+  <img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-5865F2?style=for-the-badge" alt="Watch 5Mspeakers Demo">
+</a>
+
+<br><br>
 
 </div>
 
