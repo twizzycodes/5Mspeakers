@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS `speakers` (
+    `id` VARCHAR(64) NOT NULL,
+    `name` VARCHAR(100) NOT NULL,
+    `model` VARCHAR(100) NOT NULL,
+    `coords` LONGTEXT NOT NULL,
+    `volume` FLOAT NOT NULL DEFAULT 0.5,
+    `range_dist` FLOAT NOT NULL DEFAULT 25.0,
+    `current_song` LONGTEXT DEFAULT NULL,
+    `queue` LONGTEXT DEFAULT NULL,
+    `created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
